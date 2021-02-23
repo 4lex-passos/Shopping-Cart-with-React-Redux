@@ -12,9 +12,15 @@
 <h2 align="center">
   👾 FEATURES 👾
 </h2>
-- [x] Cadastro de usuário
-- [x] Cadastro de cliente
-- [ ] Cadastro de produtos
+
+###
+
+- [x] Adicionar itens no carrinho
+- [x] Remover itens do carrinho
+- [x] Total de itens no carrinho
+- [ ] Acumular itens iguais no carrinho
+- [ ] Adicionar itens a partir do carrinho
+- [ ] Total de itens por tipo de produto
 
 <h2 align="center">
   👾 STATUS 👾
