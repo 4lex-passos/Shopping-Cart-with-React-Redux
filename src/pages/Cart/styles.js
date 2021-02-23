@@ -11,7 +11,7 @@ export const Container = styled.div`
 
     @media (max-width: 1000px) {
         width: 100vw;
-        height: 100%;
+        height: 100vh;
         border-radius: 0px;
         padding: 20px;
     }
