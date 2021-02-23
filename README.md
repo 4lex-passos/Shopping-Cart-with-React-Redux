@@ -8,22 +8,22 @@
 <h3 align="center">
    Carrinho de compras usando:
 </h3>
-<h2 align="center">
-   ReactJS - Redux - React Router
-</h2>
-
 <h1 align="center">
-  🍇 FEATURES 🍇
+   ReactJS - Redux - React Router
 </h1>
 
-###
+<h2 align="center">
+  🍇 FEATURES 🍇
+</h2>
 
-- [x] Adicionar itens no carrinho
-- [x] Remover itens do carrinho
-- [x] Total de itens no carrinho
-- [ ] Acumular itens iguais no carrinho
-- [ ] Adicionar itens a partir do carrinho
-- [ ] Total de itens por tipo de produto
+<p align="center">
+  🔹 Adicionar itens no carrinho 🔹</br>
+  🔹 Remover itens do carrinho 🔹</br>
+  🔹 Total de itens no carrinho 🔹</br>
+  🔸 Acumular itens iguais no carrinho 🔸</br>
+  🔸 Adicionar itens a partir do carrinho 🔸</br>
+  🔸 Total de itens por tipo de produto 🔸
+  </p>
 
 <h2 align="center">
   🍇 STATUS 🍇
