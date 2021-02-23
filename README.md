@@ -13,6 +13,10 @@
 </h1>
 
 <h2 align="center">
+  🍇 DEMO 🍇
+</h2>
+
+<h2 align="center">
   🍇 FEATURES 🍇
 </h2>
 
