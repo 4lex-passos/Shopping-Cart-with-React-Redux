@@ -40,7 +40,7 @@ export const Menu = styled.h5`
     background-color: #663f89;
     color: #fff;
     height: 15px;
-    width: 60px;
+    width: 80px;
     padding: 10px;
     border-radius: 5px;
     transition: 0.1s;
