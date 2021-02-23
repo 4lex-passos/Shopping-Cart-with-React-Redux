@@ -78,6 +78,7 @@ export const Price = styled.h3`
     @media (max-width: 500px) {
         font-size: 16px;
         margin: 0px;
+        text-align: center;
     }
 `;
 
