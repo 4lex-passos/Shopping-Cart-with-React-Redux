@@ -1,5 +1,5 @@
 import styled from "styled-components";
-import "https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,400;0,600;0,800;0,900;1,200&display=swap";
+
 export const Container = styled.div`
     display: flex;
     gap: 20px;
@@ -39,8 +39,8 @@ export const Menu = styled.h5`
     align-items: center;
     background-color: #663f89;
     color: #fff;
-    height: 15px;
     width: 80px;
+    height: 30px;
     padding: 10px;
     border-radius: 5px;
     transition: 0.1s;
