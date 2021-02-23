@@ -58,6 +58,9 @@
   ✅ Adicionar itens no carrinho </br>
   ✅ Remover itens do carrinho </br>
   ✅ Total de itens no carrinho </br>
+  
+  <br/>
+  
   ❌ Acumular itens iguais no carrinho </br>
   ❌ Adicionar itens a partir do carrinho </br>
   ❌ Total de itens por tipo de produto 
