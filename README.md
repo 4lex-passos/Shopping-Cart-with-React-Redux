@@ -8,17 +8,33 @@
 <h3 align="center">
    Carrinho de compras usando:
 </h3>
+
 <h1 align="center">
    ReactJS - Redux - React Router
 </h1>
 
-<br/>
-
 <h2 align="center">
-  🍇  DEMO  🍇
+  <a href="https://shopping-cart-with-react-redux.vercel.app/">🔍 Vizualizar a demo 🔍</a>
 </h2>
 
-<h2 align="center">
+<br/>
+
+<h2 align="left">
+  🍇  FEELING
+</h2>
+
+<p>
+  Apesar de estar estudando React a algum tempo, não postei nenhum projeto mais cedo pois percebi a necessidade usá-lo junto com o Redux.
+  Este projeto é resultado dos meus estudos sobre Redux, junto com ReactJS e React Router.
+</p>
+
+<br/>
+
+<h2 align="left">
+  🍇  DEMO
+</h2>
+
+<h2 align="left">
   Adicionando itens no carrinho:
 </h2>
 
@@ -26,7 +42,7 @@
 
 <br/>
 
-<h2 align="center">
+<h2 align="left">
   Removendo itens do carrinho:
 </h2>
 
@@ -34,11 +50,11 @@
 
 <br/>
 
-<h2 align="center">
-  🍇  FEATURES  🍇
+<h2 align="left">
+  🍇  FEATURES
 </h2>
 
-<p align="center">
+<p align="left">
   🔹 Adicionar itens no carrinho 🔹</br>
   🔹 Remover itens do carrinho 🔹</br>
   🔹 Total de itens no carrinho 🔹</br>
@@ -48,9 +64,9 @@
  </p>
 
 <br/>
-<h2 align="center">
-  🍇  STATUS  🍇
+<h2 align="left">
+  🍇  STATUS
 </h2>
-<h4 align="center">
-  Melhorias serão adicionadas conforme o progresso do meu aprendizado.
+<h4 align="left">
+  Melhorias serão adicionadas conforme o progresso do aprendizado.
 </h4>
