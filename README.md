@@ -10,7 +10,7 @@
 </h2>
 
 <h2 align="center">
-  👾 FEATURES 👾
+  🍇 FEATURES 🍇
 </h2>
 
 ###
@@ -23,7 +23,7 @@
 - [ ] Total de itens por tipo de produto
 
 <h2 align="center">
-  👾 STATUS 👾
+  🍇 STATUS 🍇
 </h2>
 <h4 align="center">
   Melhorias serão adicionadas conforme o progresso do meu aprendizado.
