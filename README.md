@@ -5,14 +5,16 @@
   </a>
 </p>
 
+<h3 align="center">
+   Carrinho de compras usando:
+</h3>
 <h2 align="center">
-   CARRINHO DE COMPRAS USANDO: </br>
    ReactJS - Redux - React Router
 </h2>
 
-<h2 align="center">
+<h1 align="center">
   🍇 FEATURES 🍇
-</h2>
+</h1>
 
 ###
 
