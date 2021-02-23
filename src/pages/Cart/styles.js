@@ -58,7 +58,7 @@ export const FruitImage = styled.img`
 export const Title = styled.h3`
     display: flex;
     align-items: center;
-    font-weight: normal;
+    font-weight: bold;
     color: rgba(0, 0, 0, 0.6);
 
     @media (max-width: 500px) {
