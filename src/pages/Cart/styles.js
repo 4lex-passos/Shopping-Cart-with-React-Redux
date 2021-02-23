@@ -87,9 +87,8 @@ export const RemoveButton = styled.button`
 
     background-color: #ff8b7c;
     color: #fff;
-    height: 30px;
     border: none;
-    padding: 0px 10px 0px 10px;
+    padding: 20px 10px 20px 10px;
     border-radius: 5px;
     text-transform: uppercase;
     font-size: 11px;
