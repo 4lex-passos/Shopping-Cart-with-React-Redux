@@ -46,7 +46,7 @@ export const FlatList = styled.div`
 
     @media (max-width: 500px) {
         justify-content: space-between;
-        gap: 10px;
+        gap: 5px;
     }
 `;
 
