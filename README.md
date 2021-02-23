@@ -12,8 +12,10 @@
    ReactJS - Redux - React Router
 </h1>
 
+<br/>
+
 <h2 align="center">
-  🍇 DEMO 🍇
+  🍇  DEMO  🍇
 </h2>
 
 <h4 align="center">
@@ -22,8 +24,9 @@
 
 ![Adicioando itens no carrinho](https://github.com/4lex-passos/Shopping-Cart-with-React-Redux/blob/main/public/images/AddToCart.gif)
 
+<br/>
 <h2 align="center">
-  🍇 FEATURES 🍇
+  🍇  FEATURES  🍇
 </h2>
 
 <p align="center">
@@ -35,8 +38,9 @@
   🔸 Total de itens por tipo de produto 🔸
   </p>
 
+<br/>
 <h2 align="center">
-  🍇 STATUS 🍇
+  🍇  STATUS  🍇
 </h2>
 <h4 align="center">
   Melhorias serão adicionadas conforme o progresso do meu aprendizado.
