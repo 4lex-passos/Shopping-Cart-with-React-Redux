@@ -51,8 +51,8 @@ export const FlatList = styled.div`
 `;
 
 export const FruitImage = styled.img`
-    width: 30px;
-    height: 30px;
+    width: 50px;
+    height: 50px;
 
     @media (max-width: 500px) {
         width: 25px;
