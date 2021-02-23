@@ -90,4 +90,5 @@ export const AddButton = styled.button`
 
 export const Price = styled.h2`
     color: #ccad7c;
+    text-align: center;
 `;
