@@ -18,7 +18,7 @@ export const Title = styled.h1`
     font-weight: bolder;
     font-size: 30px;
     margin-left: 5px;
-    font-family: 'Poppins', sans-serif;
+    font-family: "Poppins", sans-serif;
     color: #532b69;
     line-height: 25px;
 

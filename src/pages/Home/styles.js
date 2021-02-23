@@ -59,6 +59,10 @@ export const Subtitle = styled.p`
     width: 400px;
     margin: 10px 0 15px 0;
     font-weight: 450;
+
+    @media (max-width: 630px) {
+        width: auto;
+    }
 `;
 
 export const AddButton = styled.button`

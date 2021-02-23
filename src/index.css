@@ -1,11 +1,11 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,400;0,600;0,800;0,900;1,200&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,400;0,600;0,800;0,900;1,200&display=swap");
 
 * {
     margin: 0;
     padding: 0;
     outline: none;
     box-sizing: border-box;
-    font-family: 'Poppins', sans-serif;
+    font-family: "Poppins", sans-serif;
 }
 body {
     background-color: #8a53d7;
@@ -13,11 +13,9 @@ body {
     flex-wrap: wrap;
     justify-content: center;
     margin-top: 50px;
-
 }
 @media (max-width: 1000px) {
     body {
-
         margin-top: 0px;
     }
 }
