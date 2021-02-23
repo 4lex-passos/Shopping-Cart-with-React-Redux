@@ -10,6 +10,7 @@ export const Container = styled.div`
     border-radius: 5px;
 
     @media (max-width: 1000px) {
+        width: 100vw;
         height: 100%;
         border-radius: 0px;
         padding: 20px;
@@ -98,7 +99,7 @@ export const RemoveButton = styled.button`
         background-color: #663f89;
     }
 
-    @media (max-width: 500px) {
+      @media (max-width: 500px) {
         height: 50px;
     }
 `;
