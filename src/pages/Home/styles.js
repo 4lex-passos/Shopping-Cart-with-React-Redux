@@ -69,11 +69,11 @@ export const AddButton = styled.button`
     justify-content: center;
     align-items: center;
     gap: 10px;
+    height: 30px;
+    padding: 0px 10px 0px 10px;
     background-color: #663f89;
     color: #fff;
-    height: 30px;
     border: none;
-    padding: 0px 10px 0px 10px;
     border-radius: 5px;
     text-transform: uppercase;
     font-size: 11px;
@@ -81,6 +81,10 @@ export const AddButton = styled.button`
     transition: 0.2s;
     &:hover {
         background-color: #8a53d7;
+    }
+
+    @media (max-width: 500px) {
+        height: 50px;
     }
 `;
 
