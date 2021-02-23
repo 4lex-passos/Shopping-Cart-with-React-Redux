@@ -6,5 +6,5 @@
 </p>
 
 <h2 align="center" color="#542b65">
-  Carrinho de Compras Usando ReacJs, Redux e React Router
+ CARRINHO DE COMPRAS USANDO<br/> ReacJs, Redux e React Router
 </h2>
