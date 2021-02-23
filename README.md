@@ -16,6 +16,12 @@
   🍇 DEMO 🍇
 </h2>
 
+<h4 align="center">
+   • • • • • • • • • • • • • • • • • • • ADICIONANDO ITENS NO CARRINHO • • • • • • • • • • • • • • • • • • •
+</h4>
+
+![Adicioando itens no carrinho](https://github.com/4lex-passos/Shopping-Cart-with-React-Redux/blob/main/public/images/AddToCart.gif)
+
 <h2 align="center">
   🍇 FEATURES 🍇
 </h2>
