@@ -39,10 +39,10 @@ export const Menu = styled.h5`
     align-items: center;
     background-color: #663f89;
     color: #fff;
-    height: 30px;
-    padding: 10px;
+    height: 15px;
+    width: 60px;
+    padding: 5px;
     border-radius: 5px;
-    width: 80px;
     transition: 0.1s;
 
     &:hover {
