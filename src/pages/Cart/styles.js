@@ -89,6 +89,7 @@ export const RemoveButton = styled.button`
     justify-content: center;
     align-items: center;
     gap: 10px;
+    height: 30px;
 
     background-color: #ff8b7c;
     color: #fff;
@@ -99,6 +100,7 @@ export const RemoveButton = styled.button`
     font-size: 11px;
     font-weight: bold;
     transition: 0.2s;
+
     &:hover {
         background-color: #663f89;
     }
