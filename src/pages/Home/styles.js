@@ -33,6 +33,7 @@ FlatList.Box = styled.div`
 FlatList.Bottom = styled.div`
     display: flex;
     justify-content: space-between;
+    align-items: center;
 `;
 
 export const FruitImage = styled.img`
