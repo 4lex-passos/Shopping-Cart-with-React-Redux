@@ -69,8 +69,9 @@ export const Title = styled.h3`
 export const Price = styled.h3`
     display: flex;
     align-items: center;
-    color: rgba(0, 0, 0, 0.6);
+    justify-content: center;
 
+    color: rgba(0, 0, 0, 0.6);
     border-radius: 5px;
     padding: 5px;
 
@@ -97,6 +98,10 @@ export const RemoveButton = styled.button`
     transition: 0.2s;
     &:hover {
         background-color: #663f89;
+    }
+
+    @media (max-width: 500px) {
+        height: 50px;
     }
 `;
 
