@@ -6,7 +6,8 @@
 </p>
 
 <h2 align="center">
-   CARRINHO DE COMPRAS USANDO:
+   CARRINHO DE COMPRAS USANDO: </br>
+   ReactJS - Redux - React Router
 </h2>
 
 <h2 align="center">
