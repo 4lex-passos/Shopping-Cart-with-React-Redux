@@ -9,7 +9,7 @@ export const Container = styled.div`
     border-radius: 5px;
 
     @media (max-width: 1000px) {
-        width: 100%;
+        width: 100vw;
         border-radius: 0px;
         padding: 20px;
     }
