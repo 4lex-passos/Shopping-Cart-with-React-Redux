@@ -5,6 +5,20 @@
   </a>
 </p>
 
-<h2 align="center" color="#542b65">
- CARRINHO DE COMPRAS USANDO<br/><strong> ReacJs, Redux e React Router</strong>
+<h2 align="center">
+   CARRINHO DE COMPRAS USANDO:
 </h2>
+
+<h2 align="center">
+  👾 FEATURES 👾
+</h2>
+- [x] Cadastro de usuário
+- [x] Cadastro de cliente
+- [ ] Cadastro de produtos
+
+<h2 align="center">
+  👾 STATUS 👾
+</h2>
+<h4 align="center">
+  Melhorias serão adicionadas conforme o progresso do meu aprendizado.
+</h4>
