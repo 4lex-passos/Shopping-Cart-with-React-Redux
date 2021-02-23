@@ -14,8 +14,9 @@ body {
     justify-content: center;
     margin-top: 50px;
 }
+
 @media (max-width: 1000px) {
     body {
-        margin-top: 0px;
+        margin: 0px;
     }
 }
