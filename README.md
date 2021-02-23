@@ -18,13 +18,22 @@
   🍇  DEMO  🍇
 </h2>
 
-<h4 align="center">
-   • • • • • • • • • • • • • • • • • • • ADICIONANDO ITENS NO CARRINHO • • • • • • • • • • • • • • • • • • •
-</h4>
+<h2 align="center">
+  Adicionando itens no carrinho:
+</h2>
 
 ![Adicioando itens no carrinho](https://github.com/4lex-passos/Shopping-Cart-with-React-Redux/blob/main/public/images/AddToCart.gif)
 
 <br/>
+
+<h2 align="center">
+  Removendo itens do carrinho:
+</h2>
+
+![Removendo itens do carrinho](https://github.com/4lex-passos/Shopping-Cart-with-React-Redux/blob/main/public/images/RemoveItem.gif)
+
+<br/>
+
 <h2 align="center">
   🍇  FEATURES  🍇
 </h2>
@@ -36,7 +45,7 @@
   🔸 Acumular itens iguais no carrinho 🔸</br>
   🔸 Adicionar itens a partir do carrinho 🔸</br>
   🔸 Total de itens por tipo de produto 🔸
-  </p>
+ </p>
 
 <br/>
 <h2 align="center">
