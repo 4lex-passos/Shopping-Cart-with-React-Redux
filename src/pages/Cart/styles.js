@@ -4,19 +4,16 @@ export const Container = styled.div`
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;
-    width: 600px;
     padding: 20px;
     background-color: #fff;
     border-radius: 5px;
 
     @media (max-width: 1000px) {
-        width: 100vw;
-        height: fit-content;
+        height: 100%;
         border-radius: 0px;
         padding: 20px;
     }
 `;
-
 export const CartTotal = styled.div`
     display: flex;
     justify-content: space-between;
@@ -98,7 +95,7 @@ export const RemoveButton = styled.button`
         background-color: #663f89;
     }
 
-      @media (max-width: 500px) {
+    @media (max-width: 500px) {
         height: 50px;
     }
 `;
