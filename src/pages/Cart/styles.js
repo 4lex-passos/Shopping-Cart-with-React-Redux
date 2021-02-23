@@ -51,18 +51,18 @@ export const FlatList = styled.div`
 `;
 
 export const FruitImage = styled.img`
-    width: 30px;
-    height: 30px;
+    width: 25px;
+    height: 25px;
 `;
 
 export const Title = styled.h3`
     display: flex;
     align-items: center;
-    font-weight: bold;
+    font-weight: normal;
     color: rgba(0, 0, 0, 0.6);
 
     @media (max-width: 500px) {
-        font-size: 15px;
+        font-size: 14px;
     }
 `;
 
@@ -75,7 +75,7 @@ export const Price = styled.h3`
     padding: 5px;
 
     @media (max-width: 500px) {
-        font-size: 16px;
+        font-size: 14px;
     }
 `;
 
