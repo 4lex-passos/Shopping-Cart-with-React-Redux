@@ -41,7 +41,7 @@ export const Menu = styled.h5`
     color: #fff;
     height: 15px;
     width: 60px;
-    padding: 5px;
+    padding: 10px;
     border-radius: 5px;
     transition: 0.1s;
 
