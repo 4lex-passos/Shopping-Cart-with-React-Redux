@@ -7,6 +7,7 @@ export const Container = styled.div`
     padding: 20px;
     background-color: #fff;
     border-radius: 5px;
+    box-shadow: 10px 10px 8px rgba(0,0,0,.5);
 
     @media (max-width: 1000px) {
         min-height: 100vh;
