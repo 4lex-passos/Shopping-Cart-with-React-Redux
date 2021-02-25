@@ -11,7 +11,7 @@ body {
     background-image: linear-gradient(to bottom left , blue, #8c58d7);
     background-repeat: no-repeat;
     background-position: center;
-    background-size: 100vmax 100vh;
+    background-size: 100vh 100vmax;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
