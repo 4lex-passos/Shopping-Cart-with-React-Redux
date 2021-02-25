@@ -8,8 +8,7 @@
     font-family: "Poppins", sans-serif;
 }
 body {
-   
-    background-image: radial-gradient(rgb(175, 133, 238), #794abb);
+    background-image: linear-gradient(to left, rgb(175, 133, 238), #794abb);
     background-size: 100vw 100%;
     display: flex;
     flex-wrap: wrap;
