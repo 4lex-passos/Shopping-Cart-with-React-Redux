@@ -11,7 +11,7 @@ body {
     background-image: linear-gradient(to bottom left , blue, #8c58d7);
     background-repeat: no-repeat;
     background-size: 100vw 100%;
-    height: fit-content;
+    height: 100%;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
