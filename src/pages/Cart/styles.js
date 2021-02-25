@@ -8,6 +8,7 @@ export const Container = styled.div`
     padding: 20px;
     background-color: #fff;
     border-radius: 5px;
+    box-shadow: -25px 25px 9px rgba(60, 37, 81,.2);
 
     @media (max-width: 1000px) {
         min-width: auto;
@@ -43,7 +44,6 @@ export const FlatList = styled.div`
     border-radius: 5px;
     padding: 10px;
     margin-top: 10px;
-    box-shadow: -25px 25px 9px rgba(60, 37, 81,.2);
 
     @media (max-width: 500px) {
         justify-content: space-between;
