@@ -1,4 +1,3 @@
-
 <p align="center">
   <a href="https://shopping-cart-with-react-redux.vercel.app/">
     <img src="https://github.com/4lex-passos/Shopping-Cart-with-React-Redux/blob/main/public/images/README_LOGO.png" />
@@ -64,12 +63,24 @@
   ❌ Acumular itens iguais no carrinho </br>
   ❌ Adicionar itens a partir do carrinho </br>
   ❌ Total de itens por tipo de produto 
- </p>
+</p>
 
 <br/>
+
 <h2 align="left">
   🍇  STATUS
 </h2>
 <h4 align="left">
   Melhorias serão adicionadas conforme o progresso do aprendizado.
+</h4>
+
+<h2 align="left">
+  🍇  LIBRARIES
+</h2>
+<h4 align="left">
+    React-router-dom: ^5.2.0,
+    React-redux: ^7.2.2,
+    Redux: ^4.0.5,
+    Styled-components: ^5.2.1,
+    Svg: ^0.1.0,
 </h4>
