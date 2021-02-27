@@ -53,7 +53,7 @@
   🍇  FEATURES
 </h2>
 
-<p align="left">
+<h4 align="left">
   ✅ Adicionar itens no carrinho </br>
   ✅ Remover itens do carrinho </br>
   ✅ Total de itens no carrinho </br>
@@ -63,7 +63,7 @@
   ❌ Acumular itens iguais no carrinho </br>
   ❌ Adicionar itens a partir do carrinho </br>
   ❌ Total de itens por tipo de produto 
-</p>
+</h4>
 
 <br/>
 
