@@ -78,9 +78,9 @@
   🍇  LIBRARIES
 </h2>
 <h4 align="left">
-    React-router-dom: ^5.2.0,
-    React-redux: ^7.2.2,
-    Redux: ^4.0.5,
-    Styled-components: ^5.2.1,
-    Svg: ^0.1.0,
+    <strong>⚛React-router-dom:</strong> ^5.2.0 </br>
+    ⚛ React-redux: ^7.2.2 </br>
+    ⚛ Redux: ^4.0.5 </br>
+    ⚛ Styled-components: ^5.2.1 </br>
+    ⚛ Svg: ^0.1.0 </br>
 </h4>
