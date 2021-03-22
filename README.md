@@ -13,7 +13,7 @@
 </h1>
 
 <h2 align="center">
-  <a target="_blank" href="https://shopping-cart-with-react-redux.vercel.app/">🔍 Vizualizar a demo 🔍</a>
+  <a target="_blank" href="https://shopping-cart-with-react-redux.vercel.app/">🔍 Visualizar a demo 🔍</a>
 </h2>
 
 <br/>
