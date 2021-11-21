@@ -12,8 +12,8 @@
     <a href="https://shopping-cart-with-react-redux.vercel.app/">
         <img src="https://img.shields.io/static/v1?label=View&message=Demo&color=9781dd&style=for-the-badge&logo=ghost"/>
     </a>
-    <img src="https://img.shields.io/static/v1?label=Status&message=in progress&color=9781dd&style=for-the-badge&logo=ghost"/>
-        
+    
+    <img src="https://img.shields.io/static/v1?label=Status&message=in progress&color=9781dd&style=for-the-badge&logo=ghost"/>      
     <img src="https://img.shields.io/static/v1?label=License&message=Mit&color=9781dd&style=for-the-badge&logo=Ghost"/>
 </p>
 
