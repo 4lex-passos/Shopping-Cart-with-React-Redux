@@ -19,21 +19,6 @@
 <br/>
 
 <h2 align="left">
-  🍇  FEELING
-</h2>
-
-<p>
-  Apesar de estar estudando React a algum tempo, não postei nenhum projeto mais cedo pois percebi a necessidade usá-lo junto com o Redux.
-  Este projeto é resultado dos meus estudos sobre Redux, junto com ReactJS e React Router.
-</p>
-
-<br/>
-
-<h2 align="left">
-  🍇  DEMO
-</h2>
-
-<h2 align="left">
   Adicionando itens no carrinho:
 </h2>
 
