@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/4lex-passos/Electron-with-ReactJs-Clock/blob/master/public/README-HEADER-TEMPLATE-2000x614.png" />
+    <img src="https://github.com/4lex-passos/Shopping-Cart-with-React-Redux/blob/main/public/images/README-HEADER-TEMPLATE.png" />
 </p>
 
 <h4 align="center">
@@ -8,26 +8,15 @@
 
 <p align="center">Itens podem ser adicionados ao carrinho de compras</p>
 
-<h2 align="center">
-  <a target="_blank" href="https://shopping-cart-with-react-redux.vercel.app/">🔍 Visualizar a demo 🔍</a>
-</h2>
-
-<br/>
-
-<h2 align="left">
-  🍇  FEELING
-</h2>
-
-<p>
-  Apesar de estar estudando React a algum tempo, não postei nenhum projeto mais cedo pois percebi a necessidade usá-lo junto com o Redux.
-  Este projeto é resultado dos meus estudos sobre Redux, junto com ReactJS e React Router.
+<p align="center">
+    <a href="https://shopping-cart-with-react-redux.vercel.app/">
+        <img src="https://img.shields.io/static/v1?label=View&message=Demo&color=9781dd&style=for-the-badge&logo=ghost"/>
+    </a>
+    <img src="https://img.shields.io/static/v1?label=Status&message=in progress&color=9781dd&style=for-the-badge&logo=ghost"/>
+    <img src="https://img.shields.io/static/v1?label=License&message=Mit&color=9781dd&style=for-the-badge&logo=Ghost"/>
 </p>
 
 <br/>
-
-<h2 align="left">
-  🍇  DEMO
-</h2>
 
 <h2 align="left">
   Adicionando itens no carrinho:
