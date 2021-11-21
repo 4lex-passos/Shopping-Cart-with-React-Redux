@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/4lex-passos/Electron-with-ReactJs-Clock/blob/master/public/README-HEADER-TEMPLATE-2000x614.png" />
+    <img src="https://github.com/4lex-passos/Shopping-Cart-with-React-Redux/blob/main/public/images/README-HEADER-TEMPLATE.png" />
 </p>
 
 <h4 align="center">
