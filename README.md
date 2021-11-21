@@ -1,16 +1,12 @@
 <p align="center">
-  <a href="https://shopping-cart-with-react-redux.vercel.app/">
-    <img src="https://github.com/4lex-passos/Shopping-Cart-with-React-Redux/blob/main/public/images/README_LOGO.png" />
-  </a>
+    <img src="https://github.com/4lex-passos/Electron-with-ReactJs-Clock/blob/master/public/README-HEADER-TEMPLATE-2000x614.png" />
 </p>
 
-<h3 align="center">
-   Carrinho de compras usando:
-</h3>
+<h4 align="center">
+    ReactJSㅤ᎓ㅤReact Routerㅤ᎓ㅤRedux
+</h4>
 
-<h1 align="center">
-   ReactJS - Redux - React Router
-</h1>
+<p align="center">Itens podem ser adicionados ao carrinho de compras</p>
 
 <h2 align="center">
   <a target="_blank" href="https://shopping-cart-with-react-redux.vercel.app/">🔍 Visualizar a demo 🔍</a>
